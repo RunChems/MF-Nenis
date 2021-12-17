@@ -1,0 +1,19 @@
+{
+  "name": "mf-nenis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RunChems/MF-Nenis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RunChems/MF-Nenis/issues"
+  },
+  "homepage": "https://github.com/RunChems/MF-Nenis#readme"
+}
