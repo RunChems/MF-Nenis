@@ -20,7 +20,7 @@ fetchApi().then(
             const description = data. data["Las nenis de chemaaaaa"][i]["Tipo de chems"]["Chems Descripcion"];
             const mainActivity = data.data["Las nenis de chemaaaaa"][i]["Actividad principal como neni"]
             // const img = "https://scontent.fpbc1-1.fna.fbcdn.net/v/t39.30808-6/257417710_652361225772144_3894784096839103111_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFDawDKCJBFFvPOFubRq0rQDXYGxMLsKAUNdgbEwuwoBXbJycWM2DP14I2TNK0huzZmxXWHsaeqoFPrP6DyMwlw&_nc_ohc=kP8w9pqf7PwAX8GYDgC&_nc_ht=scontent.fpbc1-1.fna&oh=00_AT_YnpU4FAEsiAfJ9qRIVJKDKlZGYXfumcWMPWy1c2iIlQ&oe=61BF4E4Dhttps://scontent.fpbc1-1.fna.fbcdn.net/v/t39.30808-6/257417710_652361225772144_3894784096839103111_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFDawDKCJBFFvPOFubRq0rQDXYGxMLsKAUNdgbEwuwoBXbJycWM2DP14I2TNK0huzZmxXWHsaeqoFPrP6DyMwlw&_nc_ohc=kP8w9pqf7PwAX8GYDgC&_nc_ht=scontent.fpbc1-1.fna&oh=00_AT_YnpU4FAEsiAfJ9qRIVJKDKlZGYXfumcWMPWy1c2iIlQ&oe=61BF4E4D";
-            const img = "https://i.imgur.com/cTGJVIX.jpg"
+            
            
                 
             htmlContent += `
